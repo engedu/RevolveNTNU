@@ -9,3 +9,6 @@ Project Outputs for */*
 *.Dat
 *.pdf
 *.OutJob
+__Previews/
+*.SchDocPreview
+History/
